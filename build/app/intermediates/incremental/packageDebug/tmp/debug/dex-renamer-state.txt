@@ -1,0 +1,4 @@
+#Sun Sep 10 19:27:56 IST 2023
+base.0=/Users/redvey/StudioProjects/clock_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
